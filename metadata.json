@@ -1,0 +1,11 @@
+{
+      "chainId": 101,
+      "address": "AQkdPdnZDEcU4q3zaJdivGLrSj5qcqzdXsBzZkFoFBjd",
+      "symbol": "BLFT",
+      "name": "BlockFin Token en Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/miclottep/blockfin/main/logo.png",
+      "tags": [
+        "social-token"
+      
+    }
